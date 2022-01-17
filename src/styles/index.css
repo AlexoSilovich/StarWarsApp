@@ -1,0 +1,86 @@
+:root {
+    --color-white: #fff;
+    --color-black: #000;
+    --color-dark-grey: #10100e;
+    --color-yellow: #ffff00;
+    --color-blue: #6a83fb;
+    --color-violet: #ae72c2;
+    --color-red: #f75d83;
+
+    --spacing-medium: 20px;
+    --spacing-large: 30px;
+    --spacing-small: 10px;
+    --spacing-ultra-small: 5px;
+
+    --width-max: 1200px;
+
+    --transition: .4s;
+    --font-family-main: sans-serif;
+
+    --margin-list: 7px;
+
+    --font-size-header: 26px;
+    --font-size-main: 18px;
+    --font-bold: 600;
+
+    --text-shadow-yellow:
+        0 0 2px var(--color-white),
+        0 0 40px var(--color-yellow);
+
+    --text-shadow-blue:
+        0 0 2px var(--color-white),
+        0 0 40px var(--color-blue);
+
+    --box-shadow-white: 
+        0 16px 24px 2px rgba(255, 255, 255, 0.02),
+        0 6px 30px 5px rgba(255, 255, 255, 0.04),
+        0 8px 10px -5px rgba(255, 255, 255, 0.01);
+
+    --box-shadow-black: 
+        0 16px 24px 2px rgba(0, 0, 0, 0.5),
+        0 6px 30px 5px rgba(0, 0, 0, 0.1),
+        0 8px 10px -5px rgba(0, 0, 0, 0.2);
+
+    --border-radius-small: 3px;
+    --border-radius-medium: 5px;
+
+    /* THEMES */
+    --theme-light-header: #dfe2df;
+    --theme-dark-header: #ca6c6f;
+    --theme-neitral-header: #cccc46;
+    --theme-default-header: var(--theme-neitral-header);
+
+    --theme-light-bgimage: url(@static/bgLight.jpg);
+    --theme-dark-bgimage: url(@static/bgDark.png);
+    --theme-neitral-bgimage: url(@static/bg.jpg);
+    --theme-default-bgimage: var(--theme-neitral-bgimage);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-dark-grey);
+    font-family: var(--font-family-main);
+    background-image: var(--theme-default-bgimage);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-attachment: fixed;
+}
+
+img {
+    display: block;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+.header__text {
+    line-height: 1.7;
+    font-size: var(--font-size-header);
+    text-shadow: 0 0 2px var(--color-black);
+    color: var(--theme-default-header);
+    transition: color var(--transition);
+}
