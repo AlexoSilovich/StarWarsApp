@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/StarWarsApp/static/css/main.e7f2d298.chunk.css",
+    "main.js": "/StarWarsApp/static/js/main.fc00a850.chunk.js",
+    "main.js.map": "/StarWarsApp/static/js/main.fc00a850.chunk.js.map",
+    "runtime-main.js": "/StarWarsApp/static/js/runtime-main.e9feec51.js",
+    "runtime-main.js.map": "/StarWarsApp/static/js/runtime-main.e9feec51.js.map",
+    "static/js/2.cc4dde5a.chunk.js": "/StarWarsApp/static/js/2.cc4dde5a.chunk.js",
+    "static/js/2.cc4dde5a.chunk.js.map": "/StarWarsApp/static/js/2.cc4dde5a.chunk.js.map",
+    "static/css/3.3b172781.chunk.css": "/StarWarsApp/static/css/3.3b172781.chunk.css",
+    "static/js/3.14a943f8.chunk.js": "/StarWarsApp/static/js/3.14a943f8.chunk.js",
+    "static/js/3.14a943f8.chunk.js.map": "/StarWarsApp/static/js/3.14a943f8.chunk.js.map",
+    "index.html": "/StarWarsApp/index.html",
+    "static/css/3.3b172781.chunk.css.map": "/StarWarsApp/static/css/3.3b172781.chunk.css.map",
+    "static/css/main.e7f2d298.chunk.css.map": "/StarWarsApp/static/css/main.e7f2d298.chunk.css.map",
+    "static/js/2.cc4dde5a.chunk.js.LICENSE.txt": "/StarWarsApp/static/js/2.cc4dde5a.chunk.js.LICENSE.txt",
+    "static/media/404.1062f5e4.png": "/StarWarsApp/static/media/404.1062f5e4.png",
+    "static/media/index.css": "/StarWarsApp/static/media/bgLight.08cc2e2d.jpg",
+    "static/media/bookmark.47c78774.svg": "/StarWarsApp/static/media/bookmark.47c78774.svg",
+    "static/media/cancel.1791036e.svg": "/StarWarsApp/static/media/cancel.1791036e.svg",
+    "static/media/dark-side.e0f8cab7.jpg": "/StarWarsApp/static/media/dark-side.e0f8cab7.jpg",
+    "static/media/droid.e59cd9ff.svg": "/StarWarsApp/static/media/droid.e59cd9ff.svg",
+    "static/media/falcon.c1d0a8d1.jpg": "/StarWarsApp/static/media/falcon.c1d0a8d1.jpg",
+    "static/media/favorite.da1cf66a.svg": "/StarWarsApp/static/media/favorite.da1cf66a.svg",
+    "static/media/favoriteFill.f6e6ead8.svg": "/StarWarsApp/static/media/favoriteFill.f6e6ead8.svg",
+    "static/media/han-solo.db435084.mp4": "/StarWarsApp/static/media/han-solo.db435084.mp4",
+    "static/media/light-side.eebc5217.jpg": "/StarWarsApp/static/media/light-side.eebc5217.jpg",
+    "static/media/lightsaber.eb7d4cd6.svg": "/StarWarsApp/static/media/lightsaber.eb7d4cd6.svg",
+    "static/media/loaderBlack.aa1401fa.svg": "/StarWarsApp/static/media/loaderBlack.aa1401fa.svg",
+    "static/media/loaderBlue.411f4840.svg": "/StarWarsApp/static/media/loaderBlue.411f4840.svg",
+    "static/media/loaderWhite.9faab9db.svg": "/StarWarsApp/static/media/loaderWhite.9faab9db.svg",
+    "static/media/space-station.7a027c6e.svg": "/StarWarsApp/static/media/space-station.7a027c6e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9feec51.js",
+    "static/js/2.cc4dde5a.chunk.js",
+    "static/css/main.e7f2d298.chunk.css",
+    "static/js/main.fc00a850.chunk.js"
+  ]
+}
