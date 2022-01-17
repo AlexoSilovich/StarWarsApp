@@ -1,6 +1,7 @@
 {
   "name": "StarWars",
   "version": "0.1.0",
+  "homepage": "https://alexosilovich.github.io/StarWarsApp/",
   "private": true,
   "dependencies": {
     "classnames": "^2.3.1",
